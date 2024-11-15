@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I’m Asad Rasheed</h1>
 
 <p align="center">
-  <a href="mailto:asadrasheeddev@gmail.com"><img src="https://img.shields.io/badge/Email-asadrasheeddev@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:asadrasheeddev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-asadrasheeddev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -13,33 +15,15 @@ I'm **Asad Rasheed**, a passionate developer currently focused on **web and app 
 
 ### 💻 Tech Stack
 <p align="center">
-  <span style="display: inline-block; background-color: #f0f0f0; padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
-    HTML5
-  </span>
-  <span style="display: inline-block; background-color: #f0f0f0; padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
-    CSS3
-  </span>
-  <span style="display: inline-block; background-color: #f0f0f0; padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
-    JavaScript
-  </span>
-  <span style="display: inline-block; background-color: #f0f0f0; padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
-    jQuery
-  </span>
-  <span style="display: inline-block; background-color: #f0f0f0; padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
-    Vue.js
-  </span>
-  <span style="display: inline-block; background-color: #f0f0f0; padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
-    Node.js
-  </span>
-  <span style="display: inline-block; background-color: #f0f0f0; padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
-    Express.js
-  </span>
-  <span style="display: inline-block; background-color: #f0f0f0; padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
-    MongoDB
-  </span>
-  <span style="display: inline-block; background-color: #f0f0f0; padding: 8px 15px; border-radius: 20px; margin: 5px; font-weight: bold;">
-    React
-  </span>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
 
 ---
@@ -59,7 +43,9 @@ I'm interested in collaborating on **web development projects**, particularly in
 
 ### 📫 How to Reach Me
 <p align="center">
-  <a href="mailto:asadrasheeddev@gmail.com"><img src="https://img.shields.io/badge/Email-asadrasheeddev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:asadrasheeddev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-asadrasheeddev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
