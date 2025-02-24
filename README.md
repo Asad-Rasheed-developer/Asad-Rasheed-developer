@@ -24,20 +24,24 @@ I'm **Asad Rasheed**, a passionate developer currently focused on **web and app 
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
 ---
 
 ### 🌱 Currently Learning
+- **React Native** for mobile development.
 - Enhancing my skills in **CRUD operations**, **authentication systems**, and **user registrations**.
 
 ---
 
 ### 💞️ Looking to Collaborate On
-I'm interested in collaborating on **web development projects**, particularly in:
+I'm interested in collaborating on **web and mobile development projects**, particularly in:
 - **Front-end development**
 - **Full-stack projects**
 - **MERN stack applications**
+- **React Native mobile apps**
 
 ---
 
